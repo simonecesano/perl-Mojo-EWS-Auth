@@ -1,6 +1,6 @@
 # Mojo-EWS-Auth
 
-This is a simple Mojo-lite app for logging into an EWS based system.
+This is a simple Mojo-lite app for a log-in page into EWS (Exchange web service) based system.
 
 It provides a basic login form, an error page, and a landing page.
 
